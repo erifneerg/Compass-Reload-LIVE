@@ -1,0 +1,12 @@
+{
+  "name" : “Compass-Reload-LIVE“,
+  "version" : "0.1.0",
+  "author" : "Dorian Kernytsky",
+  "private" : true,
+
+  "devDependencies" : {
+    "grunt-contrib-watch":          "*",
+    "grunt-contrib-compass":          "*",
+    "grunt" :                   "~0.4.0"
+  } 
+}
